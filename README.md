@@ -1,4 +1,4 @@
-# discord-message(only for educational purposes)
+# discord-message (only for educational purposes)
 Send discord message with python (only for educational purposes)
 
 # Getting the token
@@ -12,4 +12,4 @@ Send discord message with python (only for educational purposes)
 - Put your channel id in url between channels/ and /messages on script
 - execute the script and your message will be sended
 
-# Sorry for the bad english
+## Sorry for the bad english
